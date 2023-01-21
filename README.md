@@ -1,8 +1,5 @@
-# Hilarte Landing page 
-Realizare una landing page, para almacenar los enlaces de mi emprendimiento Hilarte Tejido. 
-Cómo práctica y ejercicio de progrmación.
-
-
+# Hilarte Tejido Landing :tw-2764:
+Creado como práctica de programación con enfoque emprendedor. :tw-1f4aa:
 <p>
 <img
   alt="VS Code"
@@ -22,5 +19,14 @@ Cómo práctica y ejercicio de progrmación.
 />
 </p>
 
->Hola soy Yocsy, estudio Desarrollo Web en Platzi,  me encanta tejer, enseñar y diseñar amigurumis, así que encontraras mis practicas asociadas a mi emprendimiento Hilarte Tejido, como práctica de HTML y CSS, hare una landing para mi emprendimiento.
+>Hola soy Yocsy, estudio desarrollo web, este proyecto es solo html y css.:tw-1f64b:
+
+Me encanta tejer, enseñar y diseñar amigurumis y crear contenido sobre el tema, por eso mis prácticas están pensadas en mi emprendimiento hilarte tejido. :tw-1f60d:
+
+Con el proposito de dar a conocer el contenido que realizo y tengo disponible en formato pdf  como guías o patrones con descarga gratuita y de pago, también para promover mis servicios de clases online y talleres presenciales, contacto para dudas y redes sociales para quienes quieren ser parte de esa comunidad que me apoya le gusta el contenido de valor que comparto.:tw-1f64c:
+
+**Información de intéres** :tw-270c:
+Una landing page, también conocida como *página de destino*, es una página web pensada con una estrategía de marketing y un enfoque hacia la conversión, para que un usuario conozca tu producto o servicio y  entre a tu embudo de ventas, puedes colocar ofertas, promos, llamados a la acción, lo que necesites para convertir, fidelizar o dar a conocer tu emprendimiento.
+
+
 
