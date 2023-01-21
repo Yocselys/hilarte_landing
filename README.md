@@ -1,4 +1,4 @@
-# Hilarte Tejido Landing :tw-2764:
+# Hilarte Tejido Landing ❤
 Creado como práctica de programación con enfoque emprendedor. :tw-1f4aa:
 <p>
 <img
@@ -19,14 +19,14 @@ Creado como práctica de programación con enfoque emprendedor. :tw-1f4aa:
 />
 </p>
 
->Hola soy Yocsy, estudio desarrollo web, este proyecto es solo html y css.:tw-1f64b:
+>Hola soy Yocsy, estudio desarrollo web, este proyecto es solo html y css.🥰🤗
 
-Me encanta tejer, enseñar y diseñar amigurumis y crear contenido sobre el tema, por eso mis prácticas están pensadas en mi emprendimiento hilarte tejido. :tw-1f60d:
+Me encanta tejer, enseñar y diseñar amigurumis y crear contenido sobre el tema, por eso mis prácticas están pensadas en mi emprendimiento hilarte tejido. 🙋🏽‍♀️
 
-Con el proposito de dar a conocer el contenido que realizo y tengo disponible en formato pdf  como guías o patrones con descarga gratuita y de pago, también para promover mis servicios de clases online y talleres presenciales, contacto para dudas y redes sociales para quienes quieren ser parte de esa comunidad que me apoya le gusta el contenido de valor que comparto.:tw-1f64c:
+Con el proposito de dar a conocer el contenido que realizo y tengo disponible en formato pdf  como guías o patrones con descarga gratuita y de pago, también para promover mis servicios de clases online y talleres presenciales, contacto para dudas y redes sociales para quienes quieren ser parte de esa comunidad que me apoya le gusta el contenido de valor que comparto.🧶🙇🏽‍♀️
 
-**Información de intéres** :tw-270c:
-Una landing page, también conocida como *página de destino*, es una página web pensada con una estrategía de marketing y un enfoque hacia la conversión, para que un usuario conozca tu producto o servicio y  entre a tu embudo de ventas, puedes colocar ofertas, promos, llamados a la acción, lo que necesites para convertir, fidelizar o dar a conocer tu emprendimiento.
+**Información de intéres** 👀
+Una landing page, también conocida como *página de destino*, es una página web pensada con una estrategía de marketing y un enfoque hacia la conversión 🤳🏽, para que un usuario conozca tu producto o servicio y  entre a tu embudo de ventas🤝🏽, puedes colocar ofertas, promos, llamados a la acción, lo que necesites para convertir, fidelizar o dar a conocer tu emprendimiento.🙌🏽✌🏽
 
 
 
