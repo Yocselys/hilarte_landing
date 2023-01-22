@@ -1,5 +1,5 @@
 # Hilarte Tejido Landing ❤
-Creado como práctica de programación con enfoque emprendedor. :tw-1f4aa:
+Creado como práctica de programación con enfoque emprendedor.
 <p>
 <img
   alt="VS Code"
