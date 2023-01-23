@@ -9,7 +9,7 @@
     padding: 20px;
   }
 
-.padre_info {
+.padre_info_header {
   display: flex;
   border: 3px solid violet;
   flex-direction: row;
@@ -18,19 +18,33 @@
   
 }
 
-.info_logo .logo {
+.info_header {
+  display: inline-block;
+  display: flex;
+  gap: 10px;
+  align-items: center
+}
+
+.info_header .logo {
   width: 100px;
   border-radius: 50%;  
 }
 
-.info_logo{
-  display: flex;
-  gap: 10px;
-  align-items: center;}
-
-
-.info_header{
-  display: inline-block;
+.info_header_texto h3, .info_header_texto span{
+  color: #AC4FC6;
 }
+
+.info_header_contacto{
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.info_header_contacto img{
+  width: 25px;
+}
+
+
+
 
 
