@@ -7,11 +7,11 @@
 
   body{
     padding: 20px;
+    background-image: url('./src/img/fondoHilarte.png');
   }
 
 .padre_info_header {
   display: flex;
-  border: 3px solid violet;
   flex-direction: row;
   padding: 8px;
   width: 100%;
@@ -32,6 +32,7 @@
 
 .info_header_texto h3, .info_header_texto span{
   color: #AC4FC6;
+  size: 1em;
 }
 
 .info_header_contacto{
@@ -42,6 +43,16 @@
 
 .info_header_contacto img{
   width: 25px;
+}
+
+.item_welcome{
+  display: flex;
+  align-items: center;
+  background-color: #D7A9E3;
+  border-radius: 10%;
+  padding: 10px;
+  
+
 }
 
 
