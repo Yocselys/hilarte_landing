@@ -5,23 +5,38 @@
   font-family: Roboto, sans-serif;
   }
 
-  body{
-    padding: 20px;
-    background-image: url('./src/img/fondoHilarte.png');
-  }
+body{
+  padding: 20px;
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 30%)), url(./src/img/fondoHilarte.png);
+  background-size: cover;
+  background-position: initial;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+header{
+  max-width: 500px;
+  width: 100%;
+}
+
+main{
+  max-width: 500px;
+  width: 100%;
+}
+
 
 .padre_info_header {
   display: flex;
   flex-direction: row;
   padding: 8px;
   width: 100%;
-  
 }
 
 .info_header {
   display: inline-block;
   display: flex;
-  gap: 10px;
+  gap: 30px;
   align-items: center
 }
 
@@ -30,15 +45,20 @@
   border-radius: 50%;  
 }
 
-.info_header_texto h3, .info_header_texto span{
+.info_header_texto h3 {
   color: #AC4FC6;
   size: 1em;
+}
+
+.info_header_texto span {
+  color: #B565A7;
 }
 
 .info_header_contacto{
   gap: 10px;
   display: flex;
   align-items: center;
+  padding: 10px
 }
 
 .info_header_contacto img{
@@ -48,11 +68,9 @@
 .item_welcome{
   display: flex;
   align-items: center;
-  background-color: #D7A9E3;
-  border-radius: 10%;
+  background-color: #F1E6B2;
+  border-radius: 10px;
   padding: 10px;
-  
-
 }
 
 
