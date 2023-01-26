@@ -81,6 +81,7 @@ main{
 .box_container{
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 
 .box_class{
@@ -101,7 +102,6 @@ main{
   
 }
 
-
 .texto{
   display: flex;
   flex-direction: column;
@@ -115,4 +115,27 @@ main{
 
 .texto .subtitulo{
   color:black;
+}
+
+
+.box_green {
+  background-color: #9CDBD9;
+}
+
+.box_yellow{
+  background-color: #F1E6B2;
+}
+
+.box_pink{
+  background-color: #F1A7DC;
+}
+
+.box_video{
+  width: 100%;
+  max-width: 500px;
+  height: 315px;
+  border-radius: 10px;
+  border: solid 1px #AC4FC6;
+
+
 }

@@ -1,0 +1,16 @@
+<svg id="instramar-color-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.096" y1="0.844" x2="1.336" y2="-0.212" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbe18a"/>
+      <stop offset="0.21" stop-color="#fcbb45"/>
+      <stop offset="0.38" stop-color="#f75274"/>
+      <stop offset="0.52" stop-color="#d53692"/>
+      <stop offset="0.74" stop-color="#8f39ce"/>
+      <stop offset="1" stop-color="#5b4fe9"/>
+    </linearGradient>
+  </defs>
+  <g id="Vector_Design_Social_Media_Icon_Set" data-name="Vector Design Social Media Icon Set">
+    <circle id="Elipse_32" data-name="Elipse 32" cx="10.92" cy="10.92" r="10.92" transform="translate(1.57 1.472)" fill="#fff"/>
+    <path id="Trazado_371" data-name="Trazado 371" d="M12.5,25A12.5,12.5,0,1,1,25,12.5,12.514,12.514,0,0,1,12.5,25ZM16.715,7.427a.925.925,0,1,0,.655.271A.925.925,0,0,0,16.715,7.427ZM12.6,8.615A3.886,3.886,0,1,0,16.488,12.5,3.89,3.89,0,0,0,12.6,8.615Zm0,6.374A2.489,2.489,0,1,1,15.092,12.5,2.489,2.489,0,0,1,12.6,14.988Zm7.84-5.717A4.739,4.739,0,0,0,15.7,4.532H9.448A4.739,4.739,0,0,0,4.709,9.271v6.255a4.739,4.739,0,0,0,4.739,4.739H15.7a4.739,4.739,0,0,0,4.739-4.739Zm-1.484,6.255A3.255,3.255,0,0,1,15.7,18.781H9.448a3.255,3.255,0,0,1-3.255-3.255V9.271A3.255,3.255,0,0,1,9.448,6.016H15.7a3.255,3.255,0,0,1,3.255,3.255Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
