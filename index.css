@@ -62,7 +62,12 @@ main{
   gap: 10px;
   display: flex;
   align-items: center;
-  padding: 10px
+  padding: 10px;
+  text-decoration: none;
+}
+
+.info_header_contacto .titulo{
+  color: #9569BE;
 }
 
 .info_header_contacto img{
