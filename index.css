@@ -64,9 +64,13 @@ main{
   align-items: center;
   padding: 10px;
   text-decoration: none;
+  padding-left: 0px;
+  max-width: 500px;
+  ;
 }
 
 .info_header_contacto .titulo{
+  padding-left: 0px;
   color: #9569BE;
 }
 
