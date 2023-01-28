@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&display=swap');
 
+:root{
+  --primary_color_violet: #AC4FC6 ;
+  --primary_color_light_violet:  #D7A9E3;
+  --primary_color_pink:  #F1A7DC; 
+  --primary_color_green:  #9CDBD9; 
+  --primary_color_yellow: #F1E6B2;
+  --seconday_color_dark_violet: #9569BE;
+  --seconday_color_purple: #B565A7;
+  --seconday_color_dark_green: #5A8D84;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -56,11 +67,11 @@ main{
 }
 
 .info_header_texto h3 {
-  color: #AC4FC6;
+  color: var(--primary_color_violet);
 }
 
 .info_header_texto span {
-  color: #B565A7;
+  color: var(--seconday_color_purple);
 }
 
 .info_header_contacto{
@@ -76,7 +87,7 @@ main{
 
 .info_header_contacto .titulo{
   padding-left: 0px;
-  color: #9569BE;
+  color: var(--primary_color_violet);
 }
 
 .info_header_contacto img{
@@ -86,7 +97,7 @@ main{
 .item_welcome{
   display: flex;
   align-items: center;
-  background-color: #F1E6B2;
+  background-color: var(--primary_color_yellow);
   border-radius: 10px;
   padding: 10px;
   text-align: center;
@@ -99,10 +110,10 @@ main{
 }
 
 .box_class{
-  background-color: #F1A7DC;
+  background-color: var(--primary_color_pink);
   padding: 10px;
   border-radius: 10px;
-  border: solid 1px #AC4FC6;
+  border: solid 1px var(--primary_color_violet);
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -124,7 +135,7 @@ main{
 }
 
 .texto .titulo{
-  color: #9569BE;
+  color: var(--primary_color_violet);
 }
 
 .texto .subtitulo{
@@ -133,15 +144,15 @@ main{
 
 
 .box_green {
-  background-color: #9CDBD9;
+  background-color: var(--primary_color_green);
 }
 
 .box_yellow{
-  background-color: #F1E6B2;
+  background-color: var(--primary_color_yellow);
 }
 
 .box_pink{
-  background-color: #F1A7DC;
+  background-color: var(--primary_color_pink);
 }
 
 .box_video{
@@ -149,7 +160,7 @@ main{
   max-width: 500px;
   height: 315px;
   border-radius: 10px;
-  border: solid 1px #AC4FC6;
+  border: solid 1px var(--primary_color_violet);
 
 
 }
