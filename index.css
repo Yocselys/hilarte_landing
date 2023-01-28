@@ -45,6 +45,11 @@ main{
   align-items: center
 }
 
+.info_header_location{
+  display: flex;
+  gap: 5px;
+}
+
 .info_header .logo {
   width: 100px;
   border-radius: 50%;  
