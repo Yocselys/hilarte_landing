@@ -30,7 +30,7 @@ Una landing page, también conocida como *página de destino*, es una página we
 
 
 ## Página Web   🌐
-👉 [`URL`](https://yocselys.github.io/google-clone/)
+👉 [`URL`](https://yocselys.github.io/hilarte_landing/)
 ## Demo
 <img width="150" src="./src/img/mobile.png"/>
 
