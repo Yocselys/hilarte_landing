@@ -29,4 +29,9 @@ Con el proposito de dar a conocer el contenido que realizo y tengo disponible en
 Una landing page, también conocida como *página de destino*, es una página web pensada con una estrategía de marketing y un enfoque hacia la conversión 🤳🏽, para que un usuario conozca tu producto o servicio y  entre a tu embudo de ventas🤝🏽, puedes colocar ofertas, promos, llamados a la acción, lo que necesites para convertir, fidelizar o dar a conocer tu emprendimiento.🙌🏽✌🏽
 
 
+## Página Web   🌐
+👉 [`URL`](https://yocselys.github.io/google-clone/)
+## Demo
+<img width="150" src="./src/img/mobile.png"/>
+
 
