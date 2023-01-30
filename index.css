@@ -6,9 +6,9 @@
   --primary_color_pink:  #F1A7DC; 
   --primary_color_green:  #9CDBD9; 
   --primary_color_yellow: #F1E6B2;
-  --seconday_color_dark_violet: #9569BE;
-  --seconday_color_purple: #B565A7;
-  --seconday_color_dark_green: #5A8D84;
+  --secondary_color_dark_violet: #9569BE;
+  --secondary_color_purple: #B565A7;
+  --secondary_color_dark_green: #5A8D84;
 }
 
 * {
@@ -71,18 +71,24 @@ main{
 }
 
 .info_header_texto span {
-  color: var(--seconday_color_purple);
+  color: var(--secondary_color_purple);
 }
 
 .info_header_contacto{
-  gap: 10px;
+  gap: 8px;
   display: flex;
   align-items: center;
   padding: 10px;
+  padding-right: 0px;
   text-decoration: none;
   padding-left: 0px;
   max-width: 500px;
-  ;
+}
+
+.info_header_contacto_img{
+  gap: 10px;
+  display: flex;
+  align-items: center;
 }
 
 .info_header_contacto .titulo{
@@ -93,6 +99,7 @@ main{
 .info_header_contacto img{
   width: 25px;
 }
+
 
 .item_welcome{
   display: flex;
@@ -161,6 +168,5 @@ main{
   height: 315px;
   border-radius: 10px;
   border: solid 1px var(--primary_color_violet);
-
-
 }
+
