@@ -103,7 +103,6 @@ main{
 
 .item_welcome{
   display: flex;
-  align-items: center;
   background-color: var(--primary_color_yellow);
   border-radius: 10px;
   padding: 10px;
